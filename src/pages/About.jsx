@@ -46,15 +46,15 @@ const About = () => {
           {/* BUTTONS */}
           <div className="flex gap-4 flex-wrap">
             <a
-              href="/chetanResume.pdf"
-              download
+              href="./chetan.pdf"
+              download="chetan.pdf"
               className="bg-black text-white px-6 py-3 rounded-xl hover:bg-gray-800 transition"
             >
               Download Resume
             </a>
 
             <a
-              href="/chetanResume.pdf"
+              href="./chetan.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-black px-6 py-3 rounded-xl hover:bg-black hover:text-white transition"
