@@ -1,7 +1,7 @@
 # Chetan Lakade — Portfolio
 
 ## Live Portfolio
-🔗 [https://your-portfolio-link.vercel.app/]((https://chetan-portfolio-sandy.vercel.app))
+🔗 [https://your-portfolio-link.vercel.app/](https://chetan-portfolio-sandy.vercel.app)
 
 ## Introduction
 
