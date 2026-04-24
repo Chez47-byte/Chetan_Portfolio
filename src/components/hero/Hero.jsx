@@ -59,7 +59,7 @@ const Hero = () => {
             {/* 🔥 CTA BUTTONS */}
             <div className="flex gap-4 justify-center md:justify-start mb-8 flex-wrap">
               <a
-                href="#projects"
+                href="./projects"
                 className="px-6 py-3 rounded-lg bg-gradient-to-r from-purple-500 to-blue-500 text-white font-medium shadow-lg hover:scale-105 transition"
               >
                 View Projects
